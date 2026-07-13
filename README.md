@@ -61,9 +61,6 @@
 - End-to-end ML pipeline for trend forecasting — preprocessing, feature engineering, training, and evaluation
 - Deployed model predictions via a REST API integrated with a JavaScript front-end dashboard
 
-#### 🔹 [Electricity Billing System](#)
-`Java` `MySQL` `Swing/AWT` `JDBC` `Git`
-- Full-featured billing management desktop app covering registration, payment, and data management across a complete SDLC lifecycle
 
 ---
 
@@ -85,7 +82,6 @@
 ### 📫 Reach Me
 
 - 📧 ganeshshinde7936@gmail.com
-- 📱 9075162183
 - 📍 Pune, Maharashtra, India
 
 <p align="center"><i>Open to AI Engineer / AI Agent roles — let's build something great together!</i></p>
